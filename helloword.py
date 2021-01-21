@@ -7,3 +7,5 @@ for a in range(10):
 a=10
 # 4
 dict = {}
+#5
+set={s,s,s,s}
